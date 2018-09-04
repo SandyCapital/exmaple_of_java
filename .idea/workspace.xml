@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96e01ad2-b52f-4422-9729-21b2130c97e6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/seven/ClassViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/MethodTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/NestedClassInformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/NewClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/UsefulArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seven/CircleInner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seven/Excel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seven/StringUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/UsefulArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/seven/UsefulArray.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,87 +21,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ClassViewer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/ClassViewer.java">
+      <file leaf-file-name="StringUtils.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/seven/StringUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="485">
+              <caret line="46" column="72" selection-start-line="46" selection-start-column="72" selection-end-line="46" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1648#1649#0" expanded="true" />
+                <element signature="e#1715#1716#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Excel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/seven/Excel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding>
+                <element signature="e#69#70#0" expanded="true" />
+                <element signature="e#125#126#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OuterType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/seven/OuterType.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+              <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#47#77#1" expanded="true" />
+                <element signature="e#121#122#0" expanded="true" />
+                <element signature="e#173#174#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NestedClassInformation.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/NestedClassInformation.java">
+      <file leaf-file-name="CircleInner.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/seven/CircleInner.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="213">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#672#673#0" expanded="true" />
+                <element signature="e#705#706#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/Student.java">
+      <file leaf-file-name="AlarmClock.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/seven/AlarmClock.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-              <folding>
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-                <element signature="e#220#221#0" expanded="true" />
-                <element signature="e#248#249#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#306#307#0" expanded="true" />
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#478#479#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#544#545#0" expanded="true" />
-                <element signature="e#574#575#0" expanded="true" />
-                <element signature="e#620#621#0" expanded="true" />
-                <element signature="e#658#659#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MethodTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/MethodTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NewClassTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/NewClassTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UsefulArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/seven/UsefulArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+            <state relative-caret-position="-8">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,12 +113,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/four/BreakCyc.java" />
-        <option value="$PROJECT_DIR$/src/four/CycFilter.java" />
-        <option value="$PROJECT_DIR$/src/five/ArrayRowColumnSwap.java" />
-        <option value="$PROJECT_DIR$/src/five/SelectionSort.java" />
-        <option value="$PROJECT_DIR$/src/five/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/src/five/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/five/InsertSort.java" />
         <option value="$PROJECT_DIR$/src/five/Sort.java" />
         <option value="$PROJECT_DIR$/src/five/ReverseArray.java" />
@@ -189,6 +158,12 @@
         <option value="$PROJECT_DIR$/src/seven/NewClassTest.java" />
         <option value="$PROJECT_DIR$/src/seven/UserfulArray.java" />
         <option value="$PROJECT_DIR$/src/seven/UsefulArray.java" />
+        <option value="$PROJECT_DIR$/src/seven/StringUtils.java" />
+        <option value="$PROJECT_DIR$/src/seven/Excrise1.java" />
+        <option value="$PROJECT_DIR$/src/seven/Excel.java" />
+        <option value="$PROJECT_DIR$/src/seven/CircleInner.java" />
+        <option value="$PROJECT_DIR$/src/seven/OuterType.java" />
+        <option value="$PROJECT_DIR$/src/seven/AnonymousInner.java" />
       </list>
     </option>
   </component>
@@ -208,8 +183,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="345" />
-    <option name="y" value="32" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1120" />
     <option name="height" value="998" />
   </component>
@@ -268,9 +243,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UsefulArray">
-    <configuration name="MethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seven.MethodTest" />
+  <component name="RunManager" selected="Application.Excel">
+    <configuration name="Excel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seven.Excel" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
@@ -279,8 +254,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="NestedClassInformation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seven.NestedClassInformation" />
+    <configuration name="MethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seven.MethodTest" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
@@ -299,8 +274,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seven.Student" />
+    <configuration name="StringUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seven.StringUtils" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
@@ -335,19 +310,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.NestedClassInformation" />
-      <item itemvalue="Application.Student" />
       <item itemvalue="Application.MethodTest" />
       <item itemvalue="Application.NewClassTest" />
       <item itemvalue="Application.UsefulArray" />
+      <item itemvalue="Application.StringUtils" />
+      <item itemvalue="Application.Excel" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Excel" />
+        <item itemvalue="Application.StringUtils" />
         <item itemvalue="Application.UsefulArray" />
         <item itemvalue="Application.NewClassTest" />
         <item itemvalue="Application.MethodTest" />
-        <item itemvalue="Application.Student" />
-        <item itemvalue="Application.NestedClassInformation" />
       </list>
     </recent_temporary>
   </component>
@@ -362,15 +337,15 @@
       <option name="presentableId" value="Default" />
       <updated>1535030374670</updated>
       <workItem from="1535030438653" duration="15495000" />
-      <workItem from="1535169672017" duration="95621000" />
+      <workItem from="1535169672017" duration="105038000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111116000" />
+    <option name="totallyTimeSpent" value="120533000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -383,11 +358,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3288948" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26637554" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.592126" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.58515286" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5904173" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.8486172" visible="true" weight="0.14142092" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.8486172" visible="true" weight="0.25201073" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32863188" />
       <window_info id="Structure" order="0" sideWeight="0.15138282" side_tool="true" weight="0.19571045" />
@@ -395,7 +370,7 @@
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="5" sideWeight="0.5011236" side_tool="true" weight="0.1980198" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.38449612" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3842795" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -435,45 +410,10 @@
           <option name="timeStamp" value="18" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="19" />
+      <option name="time" value="20" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/six/Initialization.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="23" lean-forward="true" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/five/ReverseArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="15" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/five/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/five/InsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/five/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="36" lean-forward="true" selection-start-line="51" selection-start-column="36" selection-end-line="51" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/five/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="179">
@@ -784,30 +724,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/seven/AlarmClock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="214">
           <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/seven/ClassTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#279#309#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -828,21 +748,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/seven/ClassViewer.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        <state relative-caret-position="143">
+          <caret line="2125" column="57" lean-forward="true" selection-start-line="2125" selection-start-column="57" selection-end-line="2125" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="2879" column="23" selection-start-line="2879" selection-start-column="23" selection-end-line="2879" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/reflect/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1150">
+          <caret line="73" column="42" lean-forward="true" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/UsefulArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#47#77#1" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/seven/NestedClassInformation.java">
+    <entry file="file://$PROJECT_DIR$/src/seven/NewClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="285">
+          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/MethodTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -851,7 +801,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/seven/Student.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
+        <state relative-caret-position="873">
           <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="e#162#163#0" expanded="true" />
@@ -874,53 +824,92 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Class.java">
+    <entry file="file://$PROJECT_DIR$/src/seven/NestedClassInformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="2125" column="57" lean-forward="true" selection-start-line="2125" selection-start-column="57" selection-end-line="2125" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/seven/MethodTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        <state relative-caret-position="438">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/util/Arrays.java">
+    <entry file="file://$PROJECT_DIR$/src/seven/ClassViewer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="444">
-          <caret line="2879" column="23" selection-start-line="2879" selection-start-column="23" selection-end-line="2879" selection-end-column="23" />
+        <state relative-caret-position="102">
+          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#47#77#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/seven/NewClassTest.java">
+    <entry file="file://$PROJECT_DIR$/src/seven/ClassTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
+        <state relative-caret-position="204">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/AnonymousInner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/CircleInner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#705#706#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/AlarmClock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/reflect/Array.java">
+    <entry file="file://$PROJECT_DIR$/src/seven/OuterType.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1150">
-          <caret line="73" column="42" lean-forward="true" selection-start-line="73" selection-start-column="41" selection-end-line="73" selection-end-column="42" />
+        <state relative-caret-position="102">
+          <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+          <folding>
+            <element signature="e#121#122#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/seven/UsefulArray.java">
+    <entry file="file://$PROJECT_DIR$/src/seven/Excel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="47" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        <state relative-caret-position="119">
+          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="e#69#70#0" expanded="true" />
+            <element signature="e#125#126#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/StringUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="46" column="72" selection-start-line="46" selection-start-column="72" selection-end-line="46" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1648#1649#0" expanded="true" />
+            <element signature="e#1715#1716#0" expanded="true" />
           </folding>
         </state>
       </provider>
