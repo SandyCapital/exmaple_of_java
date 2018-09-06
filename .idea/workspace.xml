@@ -2,11 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96e01ad2-b52f-4422-9729-21b2130c97e6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/seven/CircleInner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/Excel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/seven/StringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ten/RadianTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eleven/ExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fifteen/ThreadState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nine/RandomSortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seven/InnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seven/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/seven/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/UsefulArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/seven/UsefulArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Excel$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/seven/Excel$Inner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Excel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/seven/Excel.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,67 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StringUtils.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/seven/StringUtils.java">
+      <file leaf-file-name="ThreadState.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/fifteen/ThreadState.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="485">
-              <caret line="46" column="72" selection-start-line="46" selection-start-column="72" selection-end-line="46" selection-end-column="72" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1648#1649#0" expanded="true" />
-                <element signature="e#1715#1716#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Excel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/Excel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-              <folding>
-                <element signature="e#69#70#0" expanded="true" />
-                <element signature="e#125#126#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OuterType.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/OuterType.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
-              <folding>
-                <element signature="e#121#122#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CircleInner.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/CircleInner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="213">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#672#673#0" expanded="true" />
-                <element signature="e#705#706#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AlarmClock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/seven/AlarmClock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-8">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="387">
+              <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -113,14 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/five/InsertSort.java" />
-        <option value="$PROJECT_DIR$/src/five/Sort.java" />
-        <option value="$PROJECT_DIR$/src/five/ReverseArray.java" />
-        <option value="$PROJECT_DIR$/src/six/CelsiusConverter.java" />
-        <option value="$PROJECT_DIR$/src/six/Initialization.java" />
-        <option value="$PROJECT_DIR$/src/six/Emperor.java" />
-        <option value="$PROJECT_DIR$/src/six/HanoiTower.java" />
-        <option value="$PROJECT_DIR$/src/six/Cat.java" />
         <option value="$PROJECT_DIR$/src/six/Book.java" />
         <option value="$PROJECT_DIR$/src/six/Address.java" />
         <option value="$PROJECT_DIR$/src/six/Employee.java" />
@@ -164,6 +105,14 @@
         <option value="$PROJECT_DIR$/src/seven/CircleInner.java" />
         <option value="$PROJECT_DIR$/src/seven/OuterType.java" />
         <option value="$PROJECT_DIR$/src/seven/AnonymousInner.java" />
+        <option value="$PROJECT_DIR$/src/seven/Person.java" />
+        <option value="$PROJECT_DIR$/src/seven/Outer.java" />
+        <option value="$PROJECT_DIR$/src/seven/InnerTest.java" />
+        <option value="$PROJECT_DIR$/src/eight/FormatNumber.java" />
+        <option value="$PROJECT_DIR$/src/nine/RandomSortArray.java" />
+        <option value="$PROJECT_DIR$/src/Ten/RadianTest.java" />
+        <option value="$PROJECT_DIR$/src/eleven/ExceptionTest.java" />
+        <option value="$PROJECT_DIR$/src/fifteen/ThreadState.java" />
       </list>
     </option>
   </component>
@@ -183,10 +132,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1120" />
-    <option name="height" value="998" />
+    <option name="x" value="695" />
+    <option name="y" value="55" />
+    <option name="width" value="1030" />
+    <option name="height" value="798" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -195,8 +144,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -213,12 +160,14 @@
               <item name="JavaExample" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="seven" type="462c0819:PsiDirectoryNode" />
+              <item name="fifteen" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,9 +192,19 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Excel">
-    <configuration name="Excel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seven.Excel" />
+  <component name="RunManager" selected="Application.ThreadState">
+    <configuration name="ExceptionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="eleven.ExceptionTest" />
+      <module name="JavaExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eleven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="InnerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seven.InnerTest" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
@@ -254,42 +213,32 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MethodTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seven.MethodTest" />
+    <configuration name="RadianTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ten.RadianTest" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seven.*" />
+          <option name="PATTERN" value="Ten.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="NewClassTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seven.NewClassTest" />
+    <configuration name="RandomSortArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nine.RandomSortArray" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seven.*" />
+          <option name="PATTERN" value="nine.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="StringUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seven.StringUtils" />
+    <configuration name="ThreadState" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fifteen.ThreadState" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seven.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="UsefulArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seven.UsefulArray" />
-      <module name="JavaExample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seven.*" />
+          <option name="PATTERN" value="fifteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -310,19 +259,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.MethodTest" />
-      <item itemvalue="Application.NewClassTest" />
-      <item itemvalue="Application.UsefulArray" />
-      <item itemvalue="Application.StringUtils" />
-      <item itemvalue="Application.Excel" />
+      <item itemvalue="Application.InnerTest" />
+      <item itemvalue="Application.RandomSortArray" />
+      <item itemvalue="Application.RadianTest" />
+      <item itemvalue="Application.ExceptionTest" />
+      <item itemvalue="Application.ThreadState" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Excel" />
-        <item itemvalue="Application.StringUtils" />
-        <item itemvalue="Application.UsefulArray" />
-        <item itemvalue="Application.NewClassTest" />
-        <item itemvalue="Application.MethodTest" />
+        <item itemvalue="Application.ThreadState" />
+        <item itemvalue="Application.ExceptionTest" />
+        <item itemvalue="Application.RadianTest" />
+        <item itemvalue="Application.RandomSortArray" />
+        <item itemvalue="Application.InnerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -337,15 +286,17 @@
       <option name="presentableId" value="Default" />
       <updated>1535030374670</updated>
       <workItem from="1535030438653" duration="15495000" />
-      <workItem from="1535169672017" duration="105038000" />
+      <workItem from="1535169672017" duration="108304000" />
+      <workItem from="1536157918919" duration="846000" />
+      <workItem from="1536234091687" duration="3006000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120533000" />
+    <option name="totallyTimeSpent" value="127651000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="556" y="44" width="824" height="638" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -358,13 +309,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3288948" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.58515286" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5904173" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5889571" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.8486172" visible="true" weight="0.25201073" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.8486172" visible="true" weight="0.09007833" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32863188" />
       <window_info id="Structure" order="0" sideWeight="0.15138282" side_tool="true" weight="0.19571045" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -376,6 +326,7 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32863188" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,143 +360,32 @@
           <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/nine/RandomSortArray.java</url>
+          <line>8</line>
+          <properties class="nine.RandomSortArray" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="20" />
+      <option name="time" value="21" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/five/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/six/Cat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/six/Book.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#195#196#0" expanded="true" />
-            <element signature="e#222#223#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/six/HanoiTower.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/six/CelsiusConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1558">
-          <caret line="211" column="28" selection-start-line="211" selection-start-column="28" selection-end-line="211" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/six/Emperor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="6" lean-forward="true" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/six/Address.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
-          <folding>
-            <element signature="method#Address#0;class#Address#0" />
-            <element signature="method#toString#0;class#Address#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/six/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="method#Employee#0;class#Employee#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/six/AddressSerialize.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="49" column="32" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
-          <folding>
-            <element signature="method#AddressSerialize#0;class#AddressSerialize#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/io/ObjectOutputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-196">
-          <caret line="239" column="11" selection-start-line="239" selection-start-column="11" selection-end-line="239" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/six/EmployeeSerialize.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="82" column="32" selection-start-line="82" selection-start-column="32" selection-end-line="82" selection-end-column="32" />
-          <folding>
-            <element signature="method#EmployeeSerialize#0;class#EmployeeSerialize#0" />
-            <element signature="method#toString#0;class#EmployeeSerialize#0" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/six/ByteStreamTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" selection-start-line="31" selection-end-line="31" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/seven.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/six/ByteStreamTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/seven.java" />
     <entry file="file://$PROJECT_DIR$/src/six/EmployeeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#997#1011#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -553,12 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#94#95#0" expanded="true" />
-            <element signature="e#118#119#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -566,10 +400,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="377">
           <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="e#97#98#0" expanded="true" />
-            <element signature="e#121#122#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -584,10 +414,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <element signature="e#90#91#0" expanded="true" />
-            <element signature="e#117#118#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -595,10 +421,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-          <folding>
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#115#116#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -606,9 +428,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-          <folding>
-            <element signature="e#169#170#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -616,14 +435,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="428">
           <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-          <folding>
-            <element signature="e#114#115#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#218#219#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -631,10 +442,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="901">
           <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1000#1020#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -642,12 +449,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="34" column="29" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#631#632#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -655,10 +456,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="41" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="41" />
-          <folding>
-            <element signature="e#101#102#0" expanded="true" />
-            <element signature="e#122#123#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -680,16 +477,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="39" lean-forward="true" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="39" />
-          <folding>
-            <element signature="e#118#119#0" expanded="true" />
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#185#186#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#277#278#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#353#354#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -711,9 +498,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="e#100#101#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -735,19 +519,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
           <caret line="25" column="36" lean-forward="true" selection-start-line="25" selection-start-column="36" selection-end-line="25" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/seven/Net.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/Net.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Class.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
@@ -773,9 +548,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="14" column="47" lean-forward="true" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -783,9 +555,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="20" column="44" lean-forward="true" selection-start-line="20" selection-start-column="44" selection-end-line="20" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -793,9 +562,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -803,24 +569,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="873">
           <caret line="53" lean-forward="true" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#220#221#0" expanded="true" />
-            <element signature="e#248#249#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#437#438#0" expanded="true" />
-            <element signature="e#478#479#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#574#575#0" expanded="true" />
-            <element signature="e#620#621#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -828,9 +576,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="438">
           <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -838,10 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#47#77#1" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -852,21 +593,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/seven/AnonymousInner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/AnonymousInner.java" />
     <entry file="file://$PROJECT_DIR$/src/seven/CircleInner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="213">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
-          <folding>
-            <element signature="e#672#673#0" expanded="true" />
-            <element signature="e#705#706#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -874,9 +605,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
           <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -884,33 +612,116 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="69" selection-start-line="6" selection-start-column="69" selection-end-line="6" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ten.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ten/RadianTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
-            <element signature="e#121#122#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
+            <element signature="e#83#84#0" expanded="true" />
+            <element signature="e#104#105#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nine/RandomSortArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#185#194#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eight/FormatNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/seven/Excel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/InnerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/Outer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
           <folding>
-            <element signature="e#69#70#0" expanded="true" />
-            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/seven/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/seven/StringUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="485">
-          <caret line="46" column="72" selection-start-line="46" selection-start-column="72" selection-end-line="46" selection-end-column="72" />
+        <state relative-caret-position="17">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1648#1649#0" expanded="true" />
-            <element signature="e#1715#1716#0" expanded="true" />
+            <element signature="e#1731#1732#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eleven.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/eleven/ExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fifteen/ThreadState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="38" column="52" selection-start-line="38" selection-start-column="52" selection-end-line="38" selection-end-column="52" />
         </state>
       </provider>
     </entry>
