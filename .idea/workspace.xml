@@ -2,225 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96e01ad2-b52f-4422-9729-21b2130c97e6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/ClientCommunicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/ClientNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/ClientScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/ClientString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/GUIThread/GUIClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/GUIThread/ReceiveThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/GetIpAddress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/RunPing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/ServerCommunicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/ServerNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/ServerString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/Thread/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/Thread/ReceiveThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/Thread/SendThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/Network/Thread/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/thread/threadways/breaksecret/LogThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/thread/threadways/breaksecret/PasswordThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/thread/threadways/breaksecret/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/thread/threadways/grandThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/thread/threadways/hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/thread/threadways/joinThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/thread/threadways/priorityThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/thread/threadways/sleepThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/thread/threeways/Battle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/thread/threeways/ExtendThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/thread/threeways/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/thread/threeways/KillThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/thread/threeways/NoThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/thread/threeways/RunnableThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/thread/threeways/anonymousThread.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/BorderLayoutGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/ComboBoxGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/ContentPaneGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/FileGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/FileGUI$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/FileGUI$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/FileGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/FlowLayoutGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/GirdLayoutGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/JDialogGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/JFrameGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/JPanelGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/LableGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/LayoutGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/LolGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/LolGUI$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/LolGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/ModelGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/PassWordGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/SetResizableGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/SplitPanelGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/TestGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Swing/TextGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/Ten/RadianTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/eight/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/eight/FormatNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/eleven/ExceptionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/fifteen/RunnableDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/fifteen/ThreadList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/fifteen/ThreadState.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/five/ArrayRowColumnSwap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/five/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/five/InsertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/five/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/five/ReverseArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/five/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/five/Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/four/BreakCyc.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/four/CheckLogin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/four/CycFilter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/four/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/four/ErgodicArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/four/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/four/MultiplicationTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/four/ProductPrice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/four/YangHuiTriangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/nine/RandomSortArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/AlarmClock$1Printer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/AlarmClock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Benz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Bmw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/CarAgain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/CarFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/CircleInner$Draw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/CircleInner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/ClassDeclarationViewer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/ClassTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/ClassViewer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/EmployeeComparable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Excel$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Excel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/GIFSaver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/GPS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/GPSCar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/ImageServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/InnerTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/JPEGSaver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/MethodTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/NestedClassInformation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/NewClassTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Outer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Outer$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Outer$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Outer$Inner1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/OuterType$1inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/OuterType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Rectangle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/StringUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/TypeChooser.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/seven/UsefulArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/six/Address.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/six/AddressSerialize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/six/Book.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/six/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/six/CelsiusConverter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/six/Emperor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/six/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/six/EmployeeSerialize.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/six/EmployeeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/six/HanoiTower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/six/Initialization.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/three/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/three/Example2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/three/ParityCheck.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/three/PrintErroAndDebug.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/three/RedirectOutputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/three/TypeConversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/three/VariableExchange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/three/inputCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/BorderLayoutGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/BorderLayoutGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/ComboBoxGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/ComboBoxGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/ContentPaneGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/ContentPaneGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/FileGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/FileGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/FlowLayoutGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/FlowLayoutGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/GirdLayoutGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/GirdLayoutGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/JDialogGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/JDialogGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/JFrameGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/JFrameGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/JPanelGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/JPanelGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/LableGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/LableGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/LayoutGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/LayoutGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/LolGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/LolGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/ModelGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/ModelGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/PassWordGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/PassWordGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/SetResizableGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/SetResizableGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/SplitPanelGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/SplitPanelGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/TestGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/TestGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Swing/TextGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/Swing/TextGUI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ten/RadianTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/Ten/RadianTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eight/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/eight/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eight/FormatNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/eight/FormatNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/eleven/ExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/eleven/ExceptionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fifteen/RunnableDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/fifteen/RunnableDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fifteen/ThreadList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/fifteen/ThreadList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fifteen/ThreadState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/fifteen/ThreadState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/five/ArrayRowColumnSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/five/ArrayRowColumnSwap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/five/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/five/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/five/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/five/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/five/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/five/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/five/ReverseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/five/ReverseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/five/SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/five/SelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/five/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/five/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/four/BreakCyc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/four/BreakCyc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/four/CheckLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/four/CheckLogin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/four/CycFilter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/four/CycFilter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/four/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/four/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/four/ErgodicArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/four/ErgodicArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/four/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/four/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/four/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/four/MultiplicationTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/four/ProductPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/four/ProductPrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/four/YangHuiTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/four/YangHuiTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/nine/RandomSortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/nine/RandomSortArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/AlarmClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/AlarmClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/Benz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/Benz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/Bmw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/Bmw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/CarAgain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/CarAgain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/CarFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/CarFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/CircleInner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/CircleInner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/ClassDeclarationViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/ClassDeclarationViewer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/ClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/ClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/ClassViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/ClassViewer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/EmployeeComparable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/EmployeeComparable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/Excel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/Excel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/GIFSaver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/GIFSaver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/GPS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/GPS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/GPSCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/GPSCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/ImageServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/ImageServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/InnerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/InnerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/JPEGSaver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/JPEGSaver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/Manager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/MethodTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/MethodTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/NestedClassInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/NestedClassInformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/NewClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/NewClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/Outer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/Outer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/OuterType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/OuterType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/StringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/StringUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/TypeChooser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/TypeChooser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/seven/UsefulArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/seven/UsefulArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/six/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/AddressSerialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/six/AddressSerialize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/six/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/six/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/CelsiusConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/six/CelsiusConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/Emperor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/six/Emperor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/six/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/EmployeeSerialize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/six/EmployeeSerialize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/six/EmployeeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/HanoiTower.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/six/HanoiTower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/six/Initialization.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/six/Initialization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/three/Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/three/Example.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/three/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/three/Example2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/three/ParityCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/three/ParityCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/three/PrintErroAndDebug.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/three/PrintErroAndDebug.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/three/RedirectOutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/three/RedirectOutputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/three/TypeConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/three/TypeConversion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/three/VariableExchange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/three/VariableExchange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/three/inputCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/programme300/three/inputCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/ClientCommunicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/ClientCommunicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/ClientNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/ClientNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/ClientScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/ClientScanner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/ClientString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/ClientString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/GUIThread/GUIClient$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/GUIThread/GUIClient$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/GUIThread/GUIClient$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/GUIThread/GUIClient$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/GUIThread/GUIClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/GUIThread/GUIClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/GUIThread/GUIServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/GUIThread/GUIServer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/GUIThread/GUIServer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/GUIThread/GUIServer$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/GUIThread/GUIServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/GUIThread/GUIServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/GUIThread/ReceiveThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/GUIThread/ReceiveThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/GetIpAddress.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/GetIpAddress.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/RunPing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/RunPing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/ServerCommunicate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/ServerCommunicate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/ServerNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/ServerNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/ServerString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/ServerString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/Thread/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/Thread/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/Thread/ReceiveThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/Thread/ReceiveThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/Thread/SendThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/Thread/SendThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/Thread/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Network/Thread/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/BorderLayoutGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/BorderLayoutGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/ComboBoxGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/ComboBoxGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/ContentPaneGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/ContentPaneGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/FileGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/FileGUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/FileGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/FileGUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/FileGUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/FileGUI$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/FileGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/FileGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/FlowLayoutGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/FlowLayoutGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/GirdLayoutGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/GirdLayoutGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/JDialogGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/JDialogGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/JFrameGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/JFrameGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/JPanelGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/JPanelGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/LableGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/LableGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/LayoutGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/LayoutGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/LolGUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/LolGUI$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/LolGUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/LolGUI$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/LolGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/LolGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/ModelGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/ModelGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/PassWordGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/PassWordGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/SetResizableGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/SetResizableGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/SplitPanelGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/SplitPanelGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/TestGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/TestGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/TextGUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/Swing/TextGUI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/ClientCommunicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/ClientCommunicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/ClientNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/ClientNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/ClientScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/ClientScanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/ClientString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/ClientString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/GUIThread/GUIClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/GUIThread/GUIClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/GUIThread/GUIServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/GUIThread/GUIServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/GUIThread/ReceiveThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/GUIThread/ReceiveThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/GetIpAddress.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/GetIpAddress.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/RunPing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/RunPing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/ServerCommunicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/ServerCommunicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/ServerNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/ServerNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/ServerString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/ServerString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/Thread/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/Thread/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/Thread/ReceiveThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/Thread/ReceiveThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/Thread/SendThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/Thread/SendThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Network/Thread/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/network/Thread/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/BorderLayoutGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/BorderLayoutGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/ComboBoxGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/ComboBoxGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/ContentPaneGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/ContentPaneGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/FileGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/FileGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/FlowLayoutGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/FlowLayoutGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/GirdLayoutGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/GirdLayoutGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/JDialogGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/JDialogGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/JFrameGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/JFrameGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/JPanelGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/JPanelGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/LableGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/LableGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/LayoutGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/LayoutGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/LolGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/LolGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/ModelGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/ModelGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/PassWordGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/PassWordGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/SetResizableGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/SetResizableGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/SplitPanelGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/SplitPanelGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/TestGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/TestGUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/Swing/TextGUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/swing/TextGUI.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -235,42 +113,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="GUIClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/how2java/Network/GUIThread/GUIClient.java">
+      <file leaf-file-name="PasswordThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/how2java/thread/threadways/breaksecret/PasswordThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+            <state relative-caret-position="816">
+              <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestThread.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/how2java/thread/threadways/breaksecret/TestThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="536">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#954#1432#0" expanded="true" />
-                <element signature="e#1431#1432#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GUIServer.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/how2java/Network/GUIThread/GUIServer.java">
+      <file leaf-file-name="LogThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/how2java/thread/threadways/breaksecret/LogThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1072#1550#0" expanded="true" />
-                <element signature="e#1549#1550#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReceiveThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/how2java/Network/GUIThread/ReceiveThread.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="493">
+              <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -304,24 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/seven/InnerTest.java" />
-        <option value="$PROJECT_DIR$/src/nine/RandomSortArray.java" />
-        <option value="$PROJECT_DIR$/src/Ten/RadianTest.java" />
-        <option value="$PROJECT_DIR$/src/eleven/ExceptionTest.java" />
-        <option value="$PROJECT_DIR$/src/fifteen/ThreadState.java" />
-        <option value="$PROJECT_DIR$/src/fifteen/ThreadList.java" />
-        <option value="$PROJECT_DIR$/src/fifteen/RunnableDemo.java" />
-        <option value="$PROJECT_DIR$/src/fifteen/ThreadDemo.java" />
-        <option value="$PROJECT_DIR$/src/eight/FormatNumber.java" />
-        <option value="$PROJECT_DIR$/src/eight/ConvertMoney.java" />
-        <option value="$PROJECT_DIR$/src/eight/Example.java" />
-        <option value="$PROJECT_DIR$/src/Swing/TestGUI.java" />
-        <option value="$PROJECT_DIR$/src/Swing/LolGUI.java" />
-        <option value="$PROJECT_DIR$/src/Swing/ContainerGUI.java" />
-        <option value="$PROJECT_DIR$/src/Swing/JDialogGUI.java" />
-        <option value="$PROJECT_DIR$/src/Swing/JFrameGUI.java" />
-        <option value="$PROJECT_DIR$/src/Swing/ModelGUI.java" />
-        <option value="$PROJECT_DIR$/src/Swing/SetResizableGUI.java" />
         <option value="$PROJECT_DIR$/src/Swing/LayoutGUI.java" />
         <option value="$PROJECT_DIR$/src/Swing/BorderLayoutGUI.java" />
         <option value="$PROJECT_DIR$/src/Swing/GirdLayoutGUI.java" />
@@ -355,6 +205,24 @@
         <option value="$PROJECT_DIR$/src/how2java/Network/GUIThread/SendThread.java" />
         <option value="$PROJECT_DIR$/src/how2java/Network/GUIThread/GUIClient.java" />
         <option value="$PROJECT_DIR$/src/how2java/Network/GUIThread/GUIServer.java" />
+        <option value="$PROJECT_DIR$/src/how2java/Thread/NoThread.java" />
+        <option value="$PROJECT_DIR$/src/how2java/Thread/Hero.java" />
+        <option value="$PROJECT_DIR$/src/how2java/Thread/ExtendThread.java" />
+        <option value="$PROJECT_DIR$/src/how2java/Thread/KillThread.java" />
+        <option value="$PROJECT_DIR$/src/how2java/Thread/RunnableThread.java" />
+        <option value="$PROJECT_DIR$/src/how2java/Thread/Battle.java" />
+        <option value="$PROJECT_DIR$/src/how2java/Thread/anonymousThread.java" />
+        <option value="$PROJECT_DIR$/src/how2java/Thread/threeways/anonymousThread.java" />
+        <option value="$PROJECT_DIR$/src/how2java/thread/threeways/RunnableThread.java" />
+        <option value="$PROJECT_DIR$/src/how2java/thread/threadways/sleepThread.java" />
+        <option value="$PROJECT_DIR$/src/how2java/thread/threeways/anonymousThread.java" />
+        <option value="$PROJECT_DIR$/src/how2java/thread/threadways/joinThread.java" />
+        <option value="$PROJECT_DIR$/src/how2java/thread/threadways/hero.java" />
+        <option value="$PROJECT_DIR$/src/how2java/thread/threadways/priorityThread.java" />
+        <option value="$PROJECT_DIR$/src/how2java/thread/threadways/grandThread.java" />
+        <option value="$PROJECT_DIR$/src/how2java/thread/threadways/breaksecret/PasswordThread.java" />
+        <option value="$PROJECT_DIR$/src/how2java/thread/threadways/breaksecret/LogThread.java" />
+        <option value="$PROJECT_DIR$/src/how2java/thread/threadways/breaksecret/TestThread.java" />
       </list>
     </option>
   </component>
@@ -374,8 +242,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="902" />
+    <option name="y" value="5" />
     <option name="width" value="1145" />
     <option name="height" value="910" />
   </component>
@@ -385,7 +253,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -409,15 +276,23 @@
               <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="how2java" type="462c0819:PsiDirectoryNode" />
-              <item name="Network" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaExample" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="how2java" type="462c0819:PsiDirectoryNode" />
-              <item name="Network" type="462c0819:PsiDirectoryNode" />
-              <item name="GUIThread" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="threadways" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="how2java" type="462c0819:PsiDirectoryNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
+              <item name="threeways" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -425,6 +300,7 @@
       </pane>
       <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -449,53 +325,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GUIServer">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="how2java.Network.Thread.Client" />
+  <component name="RunManager" selected="Application.TestThread">
+    <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="how2java.thread.threadways.breaksecret.TestThread" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="how2java.Network.Thread.*" />
+          <option name="PATTERN" value="how2java.thread.threadways.breaksecret.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="ClientCommunicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="how2java.Network.ClientCommunicate" />
+    <configuration name="anonymousThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="how2java.thread.threeways.anonymousThread" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="how2java.Network.*" />
+          <option name="PATTERN" value="how2java.thread.threeways.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="GUIClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="how2java.Network.GUIThread.GUIClient" />
+    <configuration name="joinThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="how2java.thread.threadways.joinThread" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="how2java.Network.GUIThread.*" />
+          <option name="PATTERN" value="how2java.thread.threadways.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="GUIServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="how2java.Network.GUIThread.GUIServer" />
+    <configuration name="priorityThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="how2java.thread.threadways.priorityThread" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="how2java.Network.GUIThread.*" />
+          <option name="PATTERN" value="how2java.thread.threadways.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="how2java.Network.Thread.Server" />
+    <configuration name="sleepThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="how2java.thread.threadways.sleepThread" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="how2java.Network.Thread.*" />
+          <option name="PATTERN" value="how2java.thread.threadways.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -516,19 +392,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.ClientCommunicate" />
-      <item itemvalue="Application.Server" />
-      <item itemvalue="Application.Client" />
-      <item itemvalue="Application.GUIServer" />
-      <item itemvalue="Application.GUIClient" />
+      <item itemvalue="Application.anonymousThread" />
+      <item itemvalue="Application.sleepThread" />
+      <item itemvalue="Application.joinThread" />
+      <item itemvalue="Application.priorityThread" />
+      <item itemvalue="Application.TestThread" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GUIClient" />
-        <item itemvalue="Application.GUIServer" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Server" />
-        <item itemvalue="Application.ClientCommunicate" />
+        <item itemvalue="Application.TestThread" />
+        <item itemvalue="Application.priorityThread" />
+        <item itemvalue="Application.joinThread" />
+        <item itemvalue="Application.sleepThread" />
+        <item itemvalue="Application.anonymousThread" />
       </list>
     </recent_temporary>
   </component>
@@ -553,12 +429,13 @@
       <workItem from="1539964832920" duration="3815000" />
       <workItem from="1540206493511" duration="8202000" />
       <workItem from="1540217000423" duration="7524000" />
-      <workItem from="1540272758343" duration="10937000" />
+      <workItem from="1540272758343" duration="11674000" />
+      <workItem from="1540340720333" duration="7030000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174179000" />
+    <option name="totallyTimeSpent" value="181946000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -573,11 +450,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3288948" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4206696" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5840555" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.52256185" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.58232236" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.8486172" visible="true" weight="0.20509383" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.8486172" visible="true" weight="0.26340482" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32582322" />
       <window_info id="Structure" order="0" sideWeight="0.15138282" side_tool="true" weight="0.19571045" />
@@ -594,33 +471,33 @@
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32863188" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32409012" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32598424" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.8486172" visible="true" weight="0.30287206" />
       <window_info id="Structure" order="0" sideWeight="0.15138282" side_tool="true" weight="0.19571045" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32863188" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3842795" />
-      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.5840555" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Favorites" order="5" sideWeight="0.5011236" side_tool="true" weight="0.1980198" />
       <window_info id="Capture Tool" order="2" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32598424" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.3288948" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.8486172" visible="true" weight="0.30287206" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -667,157 +544,63 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/programme300/seven/StringUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eleven.java" />
-    <entry file="file://$PROJECT_DIR$/src/programme300/fifteen/ThreadState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programme300/fifteen/ThreadList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/fifteen/ThreadDemo.java" />
-    <entry file="file://$PROJECT_DIR$/src/programme300/fifteen/RunnableDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programme300/eleven/ExceptionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programme300/Ten/RadianTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programme300/five/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/programme300/five/ArrayRowColumnSwap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/eight/ConvertMoney.java" />
-    <entry file="file://$PROJECT_DIR$/src/programme300/eight/Example.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="10" column="43" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/TestGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/BorderLayoutGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="25" column="25" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/FlowLayoutGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/LayoutGUI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="25" selection-start-line="23" selection-start-column="25" selection-end-line="23" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/SetResizableGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/swing/SetResizableGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/ModelGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/swing/ModelGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/JDialogGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/swing/JDialogGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/JFrameGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/swing/JFrameGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/LolGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/swing/LolGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="358">
           <caret line="87" column="22" selection-start-line="87" selection-start-column="22" selection-end-line="87" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/GirdLayoutGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/swing/GirdLayoutGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/SplitPanelGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/swing/SplitPanelGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="41" column="32" selection-start-line="41" selection-start-column="32" selection-end-line="41" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/ContentPaneGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/swing/ContentPaneGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" selection-start-line="4" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/JPanelGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/swing/JPanelGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="731">
           <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
@@ -831,42 +614,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/FileGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/swing/FileGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="46" column="51" lean-forward="true" selection-start-line="46" selection-start-column="51" selection-end-line="46" selection-end-column="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/PassWordGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/swing/PassWordGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/TextGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/swing/TextGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/ComboBoxGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/swing/ComboBoxGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="409">
           <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Swing/LableGUI.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/swing/LableGUI.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="366">
           <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/RunPing.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/RunPing.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
           <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
@@ -876,7 +659,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
@@ -886,7 +669,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/Server.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/Server.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
@@ -897,7 +680,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/how2java/Network/ServerScanner.java" />
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/Thread/Client.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/Thread/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
@@ -907,7 +690,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/Thread/Server.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/Thread/Server.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
@@ -917,7 +700,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/Thread/ReceiveThread.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/Thread/ReceiveThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
@@ -929,7 +712,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/Thread/SendThread.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/Thread/SendThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
@@ -941,7 +724,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/ClientCommunicate.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/ClientCommunicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-64">
           <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
@@ -951,7 +734,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/ClientNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/ClientNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="21">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
@@ -961,7 +744,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/ClientScanner.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/ClientScanner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="89">
           <caret line="22" column="3" selection-start-line="21" selection-end-line="22" selection-end-column="3" />
@@ -971,7 +754,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/ClientString.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/ClientString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4">
           <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
@@ -981,7 +764,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/GetIpAddress.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/GetIpAddress.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
@@ -991,7 +774,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/ServerCommunicate.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/ServerCommunicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-132">
           <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
@@ -1001,7 +784,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/ServerNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/ServerNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-13">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
@@ -1011,7 +794,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/ServerString.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/ServerString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" column="3" selection-start-line="22" selection-end-line="24" selection-end-column="3" />
@@ -1021,46 +804,182 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/GUIThread/SendThread.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/Network/GUIThread/SendThread.java" />
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/GUIThread/ReceiveThread.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="187">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/GUIThread/ReceiveThread.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/GUIThread/GUIClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="357">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/GUIThread/GUIClient.java">
+    <entry file="file://$PROJECT_DIR$/src/how2java/network/GUIThread/GUIServer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#954#1432#0" expanded="true" />
-            <element signature="e#1431#1432#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/GUIThread/GUIServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
+        <state relative-caret-position="459">
           <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1072#1550#0" expanded="true" />
-            <element signature="e#1549#1550#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threeways/NoThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threadways.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threeways/RunnableThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threeways/anonymousThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
+          <folding>
+            <element signature="e#584#732#0" expanded="true" />
+            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#814#945#0" expanded="true" />
+            <element signature="e#944#945#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threadways/sleepThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
+          <folding>
+            <element signature="e#128#594#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threeways/Battle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threeways/KillThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threadways/joinThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="40" column="26" lean-forward="true" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="26" />
+          <folding>
+            <element signature="e#713#861#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#1057#1228#0" expanded="true" />
+            <element signature="e#1227#1228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threadways/grandThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#129#597#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threadways/priorityThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+          <folding>
+            <element signature="e#643#785#0" expanded="true" />
+            <element signature="e#784#785#0" expanded="true" />
+            <element signature="e#842#985#0" expanded="true" />
+            <element signature="e#984#985#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threeways/ExtendThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threadways/hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+          <folding>
+            <element signature="e#637#638#0" expanded="true" />
+            <element signature="e#676#677#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threeways/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#618#619#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threadways/breaksecret/PasswordThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="816">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threadways/breaksecret/LogThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threadways/breaksecret/TestThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="536">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
