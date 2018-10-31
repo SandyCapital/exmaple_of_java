@@ -2,16 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96e01ad2-b52f-4422-9729-21b2130c97e6" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/how2java/io/cachestream/cacheStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/io/cachestream/flush.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/io/cachestream/printWirte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/io/datastream/dataStream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/io/file/createFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/io/objectstream/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/io/objectstream/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/thread/atom/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/how2java/thread/lock/TestThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/io/file/fileWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/io/readchinese/readByFileInputStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/io/readchinese/readByFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/reflex/accessattributes/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/reflex/accessattributes/reflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/reflex/accessmethods/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/reflex/accessmethods/reflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/reflex/createclass/reflection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/reflex/getclass/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/how2java/reflex/getclass/reflection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExample/how2java/io/file/createFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExample/how2java/io/file/createFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/how2java/io/file/createFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/how2java/io/file/createFile.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,101 +29,78 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/how2java/thread/lock/TestThread.java">
+      <file leaf-file-name="Hero.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/how2java/reflex/getclass/Hero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#88#89#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-                <element signature="e#539#667#0" expanded="true" />
-                <element signature="e#666#667#0" expanded="true" />
-                <element signature="e#1251#1379#0" expanded="true" />
-                <element signature="e#1378#1379#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="221">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="13" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/how2java/thread/atom/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="42" column="16" lean-forward="true" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-              <folding>
-                <element signature="e#380#486#0" expanded="true" />
-                <element signature="e#485#486#0" expanded="true" />
-                <element signature="e#900#1012#0" expanded="true" />
-                <element signature="e#1011#1012#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="createFile.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/how2java/io/file/createFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cacheStream.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/how2java/io/cachestream/cacheStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="printWirte.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/how2java/io/cachestream/printWirte.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="flush.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/how2java/io/cachestream/flush.java">
+      <file leaf-file-name="reflection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/how2java/reflex/getclass/reflection.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <caret line="7" column="57" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="57" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="dataStream.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/how2java/io/datastream/dataStream.java">
+      <file leaf-file-name="reflection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/how2java/reflex/createclass/reflection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="26" lean-forward="true" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="108">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Hero.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/how2java/io/objectstream/Hero.java">
+        <entry file="file://$PROJECT_DIR$/src/how2java/reflex/accessattributes/Hero.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/how2java/io/objectstream/test.java">
+      <file leaf-file-name="reflection.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/how2java/reflex/accessattributes/reflection.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+            <state relative-caret-position="136">
+              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hero.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/how2java/reflex/accessmethods/Hero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+              <folding>
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#361#362#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reflection.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/how2java/reflex/accessmethods/reflection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -154,17 +134,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/how2java/Network/Thread/Client.java" />
-        <option value="$PROJECT_DIR$/src/how2java/Network/Thread/ReceiveThread.java" />
-        <option value="$PROJECT_DIR$/src/how2java/Network/Thread/SendThread.java" />
-        <option value="$PROJECT_DIR$/src/how2java/Network/Thread/Server.java" />
-        <option value="$PROJECT_DIR$/src/how2java/Network/GUIThread/GUIThread.java" />
-        <option value="$PROJECT_DIR$/src/how2java/Network/GUIThread/ReceiveThread.java" />
-        <option value="$PROJECT_DIR$/src/how2java/Network/GUIThread/SendThread.java" />
-        <option value="$PROJECT_DIR$/src/how2java/Network/GUIThread/GUIClient.java" />
-        <option value="$PROJECT_DIR$/src/how2java/Network/GUIThread/GUIServer.java" />
-        <option value="$PROJECT_DIR$/src/how2java/Thread/NoThread.java" />
-        <option value="$PROJECT_DIR$/src/how2java/Thread/Hero.java" />
         <option value="$PROJECT_DIR$/src/how2java/Thread/ExtendThread.java" />
         <option value="$PROJECT_DIR$/src/how2java/Thread/KillThread.java" />
         <option value="$PROJECT_DIR$/src/how2java/Thread/RunnableThread.java" />
@@ -197,7 +166,6 @@
         <option value="$PROJECT_DIR$/src/how2java/thread/atom/Atom.java" />
         <option value="$PROJECT_DIR$/src/how2java/thread/atom/Test.java" />
         <option value="$PROJECT_DIR$/src/how2java/io/createFile.java" />
-        <option value="$PROJECT_DIR$/src/how2java/io/file/createFile.java" />
         <option value="$PROJECT_DIR$/src/how2java/io/cachestream/cache.java" />
         <option value="$PROJECT_DIR$/src/how2java/io/cachestream/cacheStream.java" />
         <option value="$PROJECT_DIR$/src/how2java/io/cachestream/printWirte.java" />
@@ -205,6 +173,18 @@
         <option value="$PROJECT_DIR$/src/how2java/io/datastream/dataStream.java" />
         <option value="$PROJECT_DIR$/src/how2java/io/objectstream/Hero.java" />
         <option value="$PROJECT_DIR$/src/how2java/io/objectstream/test.java" />
+        <option value="$PROJECT_DIR$/src/how2java/io/readchinese/readByFileInputStream.java" />
+        <option value="$PROJECT_DIR$/src/how2java/io/readchinese/readByFileReader.java" />
+        <option value="$PROJECT_DIR$/src/how2java/io/file/createFile.java" />
+        <option value="$PROJECT_DIR$/src/how2java/io/file/fileWays.java" />
+        <option value="$PROJECT_DIR$/src/how2java/reflex/getclass/reflection.java" />
+        <option value="$PROJECT_DIR$/src/how2java/reflex/getclass/Hero.java" />
+        <option value="$PROJECT_DIR$/src/how2java/reflex/createclass/reflection.java" />
+        <option value="$PROJECT_DIR$/src/how2java/reflex/createclass/Hero.java" />
+        <option value="$PROJECT_DIR$/src/how2java/reflex/accessattributes/Hero.java" />
+        <option value="$PROJECT_DIR$/src/how2java/reflex/accessattributes/reflection.java" />
+        <option value="$PROJECT_DIR$/src/how2java/reflex/accessmethods/Hero.java" />
+        <option value="$PROJECT_DIR$/src/how2java/reflex/accessmethods/reflection.java" />
       </list>
     </option>
   </component>
@@ -223,11 +203,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="290" />
-    <option name="y" value="128" />
-    <option name="width" value="1145" />
-    <option name="height" value="883" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1290" />
+    <option name="height" value="819" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -253,6 +233,28 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="how2java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="how2java" type="462c0819:PsiDirectoryNode" />
+              <item name="io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="how2java" type="462c0819:PsiDirectoryNode" />
+              <item name="reflex" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaExample" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExample" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="how2java" type="462c0819:PsiDirectoryNode" />
+              <item name="reflex" type="462c0819:PsiDirectoryNode" />
+              <item name="accessmethods" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -263,6 +265,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/project/JavaExample/src/how2java/io/readchinese/readByFileInputStream.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -270,6 +273,9 @@
   <component name="RecentsManager">
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="six" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="how2java.reflex.accessattributes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -284,53 +290,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="cacheStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="how2java.io.cachestream.cacheStream" />
+  <component name="RunManager" selected="Application.reflection (3)">
+    <configuration name="createFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="how2java.io.file.createFile" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="how2java.io.cachestream.*" />
+          <option name="PATTERN" value="how2java.io.file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="dataStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="how2java.io.datastream.dataStream" />
+    <configuration name="reflection (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="how2java.reflex.createclass.reflection" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="how2java.io.datastream.*" />
+          <option name="PATTERN" value="how2java.reflex.createclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="flush" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="how2java.io.cachestream.flush" />
+    <configuration name="reflection (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="how2java.reflex.accessattributes.reflection" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="how2java.io.cachestream.*" />
+          <option name="PATTERN" value="how2java.reflex.accessattributes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="printWirte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="how2java.io.cachestream.printWirte" />
+    <configuration name="reflection (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="how2java.reflex.accessmethods.reflection" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="how2java.io.cachestream.*" />
+          <option name="PATTERN" value="how2java.reflex.accessmethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="how2java.io.objectstream.test" />
+    <configuration name="reflection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="how2java.reflex.getclass.reflection" />
       <module name="JavaExample" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="how2java.io.objectstream.*" />
+          <option name="PATTERN" value="how2java.reflex.getclass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,19 +357,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.cacheStream" />
-      <item itemvalue="Application.printWirte" />
-      <item itemvalue="Application.flush" />
-      <item itemvalue="Application.dataStream" />
-      <item itemvalue="Application.test" />
+      <item itemvalue="Application.createFile" />
+      <item itemvalue="Application.reflection" />
+      <item itemvalue="Application.reflection (1)" />
+      <item itemvalue="Application.reflection (2)" />
+      <item itemvalue="Application.reflection (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.dataStream" />
-        <item itemvalue="Application.flush" />
-        <item itemvalue="Application.printWirte" />
-        <item itemvalue="Application.cacheStream" />
+        <item itemvalue="Application.reflection (3)" />
+        <item itemvalue="Application.reflection (2)" />
+        <item itemvalue="Application.reflection (1)" />
+        <item itemvalue="Application.reflection" />
+        <item itemvalue="Application.createFile" />
       </list>
     </recent_temporary>
   </component>
@@ -389,18 +395,28 @@
       <workItem from="1540206493511" duration="8202000" />
       <workItem from="1540217000423" duration="7524000" />
       <workItem from="1540272758343" duration="11674000" />
-      <workItem from="1540340720333" duration="28853000" />
+      <workItem from="1540340720333" duration="39219000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203769000" />
+    <option name="totallyTimeSpent" value="214135000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="544" y="74" width="916" height="706" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32896653" />
       <window_info anchor="bottom" id="Messages" order="7" weight="0.3245997" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="1" />
@@ -408,14 +424,14 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3288948" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21081081" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.58058923" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32896653" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.27656478" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.57933044" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.8486172" visible="true" weight="0.21561772" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.8486172" visible="true" weight="0.27680966" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32582322" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3245997" />
       <window_info id="Structure" order="0" sideWeight="0.15138282" side_tool="true" weight="0.19571045" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -503,128 +519,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/how2java/network/ClientNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/network/ClientScanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="22" column="3" selection-start-line="21" selection-end-line="22" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/network/ClientString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4">
-          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/network/GetIpAddress.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/network/ServerCommunicate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-132">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/network/ServerNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-13">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/network/ServerString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="3" selection-start-line="22" selection-end-line="24" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/Network/GUIThread/SendThread.java" />
-    <entry file="file://$PROJECT_DIR$/src/how2java/network/GUIThread/ReceiveThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/network/GUIThread/GUIClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/network/GUIThread/GUIServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threeways/NoThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threadways.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/thread/threeways/RunnableThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/how2java/thread/threeways/anonymousThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -896,53 +790,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/thread/lock/TestThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#88#89#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-            <element signature="e#539#667#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#1251#1379#0" expanded="true" />
-            <element signature="e#1378#1379#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/thread/atom/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="42" column="16" lean-forward="true" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
-          <folding>
-            <element signature="e#380#486#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-            <element signature="e#900#1012#0" expanded="true" />
-            <element signature="e#1011#1012#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/how2java/io/cachestream/cache.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/io/file/createFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/how2java/io/cachestream/cacheStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -981,6 +832,184 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/io/cachestream/cacheStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/atom/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="42" column="16" lean-forward="true" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+          <folding>
+            <element signature="e#380#486#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+            <element signature="e#900#1012#0" expanded="true" />
+            <element signature="e#1011#1012#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/thread/lock/TestThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#88#89#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
+            <element signature="e#539#667#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#1251#1379#0" expanded="true" />
+            <element signature="e#1378#1379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/io/Chinese.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/programme300/nine/RandomSortArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="7" lean-forward="true" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/io/readchinese/readByFileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="24" lean-forward="true" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/io/readchinese/readByFileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-start-line="22" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/io/file/fileWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/io/file/createFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="23" lean-forward="true" selection-start-line="41" selection-start-column="23" selection-end-line="41" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/reflex/getclass/reflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="57" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/reflex/getclass/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/reflex/createclass/reflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/reflex/createclass/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#272#273#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#359#360#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#593#594#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/reflex/accessattributes/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/reflect/Field.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1119">
+          <caret line="754" column="45" lean-forward="true" selection-start-line="754" selection-start-column="45" selection-end-line="754" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/reflex/accessattributes/reflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/reflex/accessmethods/Hero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+          <folding>
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/how2java/reflex/accessmethods/reflection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
